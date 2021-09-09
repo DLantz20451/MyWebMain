@@ -1,5 +1,7 @@
 h1
 {
+	letter-spacing: .15em;
+	text-transform: uppercase;
 	color: red;
 	text-align: center
 }
@@ -7,21 +9,33 @@ h1
 h2
 {
 	color: blue;
+	font-family: "Georgia" , "Times New Roman" , serif
+	
 } 
 
 ul
 {
 	color:cyan;
 	text-align: left
+	
 }
-
 body
 {
 	color: red;
 	background-color:black;
+	font-family: "Georgia" , "Times New Roman" , serif
 }
 
 li
 {
 		color:cyan;
+		font-family: "Veranda", "Geneva", "helvetica", sans-serif;
+		font: italic normal 1.2em Arial, helvetica, sans-serif
+}
+
+p
+{
+	font-size: 1.5em;
+	text-indent: 3em;
+	line-height: 1.5em;
 }
