@@ -10,14 +10,12 @@ h2
 {
 	color: blue;
 	font-family: "Georgia" , "Times New Roman" , serif
-	
 } 
 
 ul
 {
 	color:cyan;
 	text-align: left
-	
 }
 body
 {
@@ -35,7 +33,12 @@ li
 
 p
 {
-	font-size: 1.5em;
+	font-size: 1.25em;
 	text-indent: 3em;
 	line-height: 1.5em;
+}
+
+h5
+{
+	font-size: 0.75em;
 }
