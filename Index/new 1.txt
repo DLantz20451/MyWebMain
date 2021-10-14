@@ -1,0 +1,28 @@
+
+
+<h1> Northwest State Community College <h1>
+
+<h3>Computer Programming - Associate of Applied Science<h3>
+
+<p>Computers play a part in nearly all phases of our life today. Businesses and governmental 
+agencies, large and small, require trained computer specialists. The computer programming 
+degree prepares computer programmers and computer operators to work with a wide variety of 
+computers and languages used by area employers. Emphasis is placed upon business-oriented 
+computer languages. Programming and practical applications of business data are stressed. 
+In the laboratory, hands-on experience is provided using the Internet and PC compatible 
+computers.<p>
+
+<h4>Employment Opportunities: <h4>
+<ul>
+Computer Operator
+Application Programmer
+Maintenance Programmer
+Software Developer
+Technical Support
+<ul>
+<p>A career path may include Lead or Senior Programmer and Data Processing Manager.<p>
+
+<h4>Career Outlook<h4>
+
+<p>Employment of computer programmers is expected to be quite good. Opportunities should be 
+especially favorable for those programmers who know several programming languages.<p>
