@@ -3,32 +3,39 @@ h1
 	letter-spacing: .15em;
 	text-transform: uppercase;
 	color: red;
-	text-align: center
+	text-align: center;
 }
 
 h2
 {
 	color: blue;
-	font-family: "Georgia" , "Times New Roman" , serif
+	font-family: "Georgia" , "Times New Roman" , serif;
 } 
 
 ul
 {
 	color:cyan;
-	text-align: left
+	text-align: left;
+	list-style-image: url{"Star.png"};	
 }
+
+ol
+{
+	list-style-type: upper-roman;
+}	
+
 body
 {
 	color: red;
-	background-color:black;
-	font-family: "Georgia" , "Times New Roman" , serif
+	background-color:#282828;
+	font-family: "Georgia" , "Times New Roman" , serif;
 }
 
 li
 {
 		color:cyan;
 		font-family: "Veranda", "Geneva", "helvetica", sans-serif;
-		font: italic normal 1.2em Arial, helvetica, sans-serif
+		font: italic normal 1.2em Arial, helvetica, sans-serif;
 }
 
 p
@@ -41,4 +48,71 @@ p
 h5
 {
 	font-size: 0.75em;
+}
+
+img
+{
+	vertical-align: middle;	
+}	
+
+h1, h2, h5
+{
+	font-family: "Georgia" , "Times New Roman" , serif;	
+}	
+
+p em
+{
+		color: cyan;
+}	
+
+nav
+{
+	background-color:#202020;
+	line-height: 200%;
+	display: block;
+}
+	
+nav li
+{
+		display: inline;
+		padding-right: 50px;
+}	
+
+nav a:link
+{
+		color:pink;
+		text-decoration:none;
+}
+
+nav a:visited
+{
+		color:cyan;
+		text-decoration:none;
+}
+
+nav a:hover
+{
+		text-decoration: underline;
+}
+
+nav a:active
+{
+		color:yellow
+}
+
+p a:link
+{
+		color:pink;
+		text-decoration:none;
+}
+
+p a:visited
+{
+		color:cyan;
+		text-decoration:none;
+}
+
+p a:hover
+{
+		text-decoration: underline;
 }
