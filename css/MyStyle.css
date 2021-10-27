@@ -2,21 +2,36 @@ h1
 {
 	letter-spacing: .15em;
 	text-transform: uppercase;
-	color: red;
+	color: cyan;
 	text-align: center;
+	border-width: thick;
+	border-color: red;
+	border-style: groove;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 30px 50px;
+}
+
+img
+{
+	float: left;
+	margin: 15px;
+	vertical-align: middle;
 }
 
 h2
 {
 	color: blue;
 	font-family: "Georgia" , "Times New Roman" , serif;
+	margin: 30px 50px;
+	clear: left;
 } 
 
 ul
 {
-	color:cyan;
+	color:red;
 	text-align: left;
-	list-style-image: url{"Star.png"};	
+	list-style-image: url{"Image/Star.png"};	
 }
 
 ol
@@ -26,14 +41,16 @@ ol
 
 body
 {
-	color: red;
+	color: cyan;
+	background-image: url(../Images/red.jpg);
+	background-position: center center;
 	background-color:#282828;
 	font-family: "Georgia" , "Times New Roman" , serif;
 }
 
 li
 {
-		color:cyan;
+		color:red;
 		font-family: "Veranda", "Geneva", "helvetica", sans-serif;
 		font: italic normal 1.2em Arial, helvetica, sans-serif;
 }
@@ -43,26 +60,26 @@ p
 	font-size: 1.25em;
 	text-indent: 3em;
 	line-height: 1.5em;
+	margin:15px;
 }
 
 h5
 {
 	font-size: 0.75em;
-}
-
-img
-{
-	vertical-align: middle;	
+	margin: 30px 50px;
+	color:red;
 }	
 
 h1, h2, h5
 {
 	font-family: "Georgia" , "Times New Roman" , serif;	
+	padding-left: 45px;
+	padding-right:45px;
 }	
 
 p em
 {
-		color: cyan;
+		color: red;
 }	
 
 nav
@@ -70,6 +87,11 @@ nav
 	background-color:#202020;
 	line-height: 200%;
 	display: block;
+	margin:15px 60px;
+	padding: 15px 15px;
+	border-width: thick;
+	border-color: cyan;
+	border-style: groove;
 }
 	
 nav li
@@ -86,7 +108,7 @@ nav a:link
 
 nav a:visited
 {
-		color:cyan;
+		color:red;
 		text-decoration:none;
 }
 
@@ -108,7 +130,7 @@ p a:link
 
 p a:visited
 {
-		color:cyan;
+		color:red;
 		text-decoration:none;
 }
 
