@@ -138,3 +138,28 @@ p a:hover
 {
 		text-decoration: underline;
 }
+
+table
+{
+	border: solid 5px white;
+	border-collapse: collapse;
+	background-color:orange;
+	text-align: left;
+}
+
+tr, td, th
+{
+	border: solid 2px white;
+	padding: 15px;
+	width: 200px;
+	text-align: left;
+	color: blue;
+}
+
+Caption
+{
+	Caption side: top;
+	font-weight: bold;
+	margin: 10px;
+	color:yellow;
+}
